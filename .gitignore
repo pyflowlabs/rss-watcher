@@ -1,0 +1,15 @@
+# Secrets – niemals committen
+.env
+
+# Laufzeit-Status
+seen.json
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# IDE / OS
+.vscode/
+.idea/
+Thumbs.db
